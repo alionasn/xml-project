@@ -1,0 +1,47 @@
+<Document>
+    <FileAppHdr>
+        <NbOfBtchs>1</NbOfBtchs>
+        <SttlmCycl>1</SttlmCycl>
+    </FileAppHdr>
+    <AppHdr>
+        <FinInstnId>
+            <BICFI>DABASESXSEK</BICFI>
+        </FinInstnId>
+        <BizMsgIdr>0skYMOPVABci6MhOJkO0skYMOPVABci6MhO</BizMsgIdr>
+        <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+        <CreDt>2023-04-07T11:50:59Z</CreDt>
+    </AppHdr>
+    <CreditTransfer>
+        <FIToFICstmrCdtTrf>
+            <GrpHdr>
+                <MsgId>M20230407DABASESXBI7eSZWYF8VfeXdBtY</MsgId>
+                <CreDtTm>2023-04-07T14:50:59+03:00</CreDtTm>
+                <NbOfTxs>10</NbOfTxs>
+                <TtlIntrBkSttlmAmt Ccy="SEK">10.00</TtlIntrBkSttlmAmt>
+                <IntrBkSttlmDt>2023-04-07</IntrBkSttlmDt>
+                <SttlmInf>
+                    <SttlmMtd>CLRG</SttlmMtd>
+                    <ClrSys>
+                        <Cd>B27</Cd>
+                    </ClrSys>
+                </SttlmInf>
+            </GrpHdr>
+            <CdtTrfTxInf>
+                <PmtId>
+                    <InstrId>h0K7kri8aLJmGhTWc7</InstrId>
+                    <EndToEndId>INVOICE2022090714120911</EndToEndId>
+                    <TxId>2WBgxMdWzy5b52OTFc</TxId>
+                    <ClrSysRef>2023040701</ClrSysRef>
+                </PmtId>
+            </CdtTrfTxInf>
+            <CdtTrfTxInf>
+                <PmtId>
+                    <InstrId>h0K7kri8aLJmGhTWc7</InstrId>
+                    <EndToEndId>INVOICE2022090714120911</EndToEndId>
+                    <TxId>2WBgxMdWzy5b52OTFc</TxId>
+                    <ClrSysRef>2023040701</ClrSysRef>
+                </PmtId>
+            </CdtTrfTxInf>
+        </FIToFICstmrCdtTrf>
+    </CreditTransfer>
+</Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Document>
+    <FileAppHdr>
+        <NbOfBtchs>2</NbOfBtchs>
+        <SttlmCycl>2</SttlmCycl>
+    </FileAppHdr>
+    <AppHdr>
+        <FinInstnId>
+            <BICFI>BSWIJOWZELI</BICFI>
+        </FinInstnId>
+        <BizMsgIdr>HDVwoM43ZcKeyzQaPqmYeHgcnj67iaPUm</BizMsgIdr>
+        <MsgDefIdr>pacs.008.001.08</MsgDefIdr>
+        <CreDt>2023-05-04 15:24:17:92</CreDt>
+    </AppHdr>
+    <CreditTransfer>
+        <FIToFICstmrCdtTrf>
+            <GrpHdr>
+                <MsgId>sNrckahFyDb</MsgId>
+                <CreDtTm>2023-05-04 15:24:17:92+03:00</CreDtTm>
+                <NbOfTxs>2</NbOfTxs>
+                <TtlIntrBkSttlmAmt Ccy="GBP">1000.0</TtlIntrBkSttlmAmt>
+                <IntrBkSttlmDt>2023-05-04</IntrBkSttlmDt>
+                <SttlmInf>
+                    <SttlmMtd>CLRG</SttlmMtd>
+                    <ClrSys>
+                        <Cd>B27</Cd>
+                    </ClrSys>
+                </SttlmInf>
+            </GrpHdr>
+            <CdtTrfTxInf>
+                <PmtId>
+                    <InstrId>0yasmcxeUTV2Ys6lO3</InstrId>
+                    <EndToEndId>INVOICE2023050415241792</EndToEndId>
+                    <TxId>dWHyxPuhiIlOnVOwxh</TxId>
+                    <ClrSysRef>2023050415</ClrSysRef>
+                </PmtId>
+            </CdtTrfTxInf>
+            <CdtTrfTxInf>
+                <PmtId>
+                    <InstrId>UeTpehR3RhC0H10zO3</InstrId>
+                    <EndToEndId>INVOICE2023050415241792</EndToEndId>
+                    <TxId>AN8oeQWY8ose0XK8b4</TxId>
+                    <ClrSysRef>2023050415</ClrSysRef>
+                </PmtId>
+            </CdtTrfTxInf>
+        </FIToFICstmrCdtTrf>
+    </CreditTransfer>
+</Document>
